@@ -1,11 +1,11 @@
 // 変数の宣言・値の代入
-let bodyWeight = '体重';
+let bodyWeight = 68;
 
 // 変数の宣言・値の代入
-let height = '身長';
+let height = 1.7;
 
 // 変数の宣言・値の代入
-let bmi = '体格指数';
+let bmi = 68/(1.7*1.7);
 
 // 四則演算
 console.log(68/(1.7*1.7));
